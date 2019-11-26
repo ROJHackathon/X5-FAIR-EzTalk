@@ -12,9 +12,9 @@ Here is the detail responsibilities:
 ## Problem Statement
 Our topic is **Refugee Integration and Digital Education, Literacy & Refugee Children**
 
-Europe has recieved a large influx of refugees in recent years. Refugees arrived are often not familiar with the language used in their destination, which stops them from finding a job, getting education for their offsprings and contributing to society. We identified two major barriers preventing them from learning the language which are the lackage of education materials and isolation of community. We aimed to support refugees by removing the barriers listed above.
+Europe has recieved a large influx of refugees in recent years. Refugees arrived are often not familiar with the language used in their destination, which stops them from finding a job, getting education for their offsprings and contributing to society. We identified two major barriers preventing them from learning the language which are the lacking of education materials and isolation of community. We aimed to support refugees by removing the barriers listed above.
 
-* **Lackage of Education Materials** : Refugees don't often have access to suitable OERs. Either the materials are not written in their language or not written for their level of competence.
+* **Lacking of Education Materials** : Refugees don't often have access to suitable OERs. Either the materials are not written in their language or not written for their level of competence.
 * **Isolation of community** : Often, refugee families find it easiest to isolate themselves in small communities in order to cope with new and unfamiliar environment. Their attempts to connect with others are inhibited by deficient English ability. As a result, they remain isolated and cannot improve their language skill by communicating.
 
 ## Proposed Solution
