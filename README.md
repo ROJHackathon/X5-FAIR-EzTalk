@@ -1,6 +1,9 @@
 # X5-FAIR-EzTalk
 This file explains the problem statement, proposed solution and all the other details required to familiarise with the project idea.
 
+## Usage
+Our product can be accessed with the following URL *https://rojhackathon.github.io/Front-end-EzTalk/* with internet browsers. For best experience, it is recommended to access with mobile phones
+
 ## Contributors
 This Project is made by Yangtao Ge([YangtaoGe518](https://github.com/YangtaoGe518)), ChoiLam Wong([WongChoiLam](https://github.com/WongChoiLam)) and ([Zekun-Yang](https://github.com/Zekun-Yang))
 
