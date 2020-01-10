@@ -57,7 +57,7 @@ eztalk manages all the material retrieved from x5gon and recommend materials bas
 Since we have two parts -- Front-end and Back-end, we will discuss they individually:
 ### Back-end:
 Here are two ways to run the server:
-* **Directly access the website** (Recommended): You can refer to the [API-Document](https://github.com/ROJHackathon/API-Documents) to get any avaliable APIs on *[http://108.61.221.218:39802](http://108.61.221.218:39802)* 
+* **Directly access the website** (Recommended): You can refer to the [API-Document](https://github.com/ROJHackathon/API-Documents) to get any avaliable APIs on *[https://ez-talk-api-provider.azurewebsites.net](https://ez-talk-api-provider.azurewebsites.net)* 
 * **Deploy on your own**: on local machine run `mvn clean package` to deploy the server. Then run `mvn spring-boot:run` to run the server `localhost:8080`
 
 Although it is possible to run on your local machine, we *do not* recommended to do so.
