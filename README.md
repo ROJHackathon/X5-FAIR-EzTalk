@@ -35,7 +35,7 @@ This achieve our target of using convenience.
 This project is collaborated on github orgnization([ROJHackathon](https://github.com/ROJHackathon)), all repositories are avaliable by this orgnization link.
 
 * [Back-End-EzTalk](https://github.com/ROJHackathon/Back-end-EzTalk):
-     This server is developd on **Java Spring Boot**, which provides the API service for front-end app to use. The backend server is deployed on a *private server* on *http://108.61.221.218:39802*. 
+     This server is developd on **Java Spring Boot**, which provides the API service for front-end app to use. The backend server is deployed on an *azure server* on *https://ez-talk-api-provider.azurewebsites.net*. 
 * [Front-End-EzTalk](https://github.com/ROJHackathon/Front-end-EzTalk):
     The user interface is developed on **React.js & Framework7**, which display the PWA in a *IOS* style layout.
 * [Documents](https://github.com/ROJHackathon/Documents):
