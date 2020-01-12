@@ -16,12 +16,11 @@ Here is the detail responsibilities:
 * Login Page (Use Admin as account -- username: admin; password: admin)
 ![Login](/assets/login.PNG)
 * Home Page
-    * Main
-        ![Main](/assets/home.PNG)
-    * Content
-        ![Content](/assets/content.PNG)
-    * Search on Home Page
-        ![SearchHome](/assets/homeSearch.PNG)
+![Main](/assets/home.PNG)
+* Content
+![Content](/assets/content.PNG)
+* Search on Home Page
+![SearchHome](/assets/homeSearch.PNG)
 * User Panel
 ![UserPanel](/assets/userPanel.PNG)
 * Settings
@@ -29,14 +28,13 @@ Here is the detail responsibilities:
 * Translate Page
 ![Translate](/assets/translate.PNG)
 * Chatroom Page 
-    * Chat Room Lists
-        ![ChatList](/assets/chatList.PNG)
-    * Chat Room Messages
-        ![ChatMessage](/assets/chatMessage.PNG)
-    * Chat Room Search
-        ![ChatSearch](/assets/chatSearch.PNG)
-    * Chat Room Create
-        ![ChatCreate](/assets/chatCreate.PNG)
+![ChatList](/assets/chatList.PNG)
+* Chat Room Messages
+    ![ChatMessage](/assets/chatMessage.PNG)
+* Chat Room Search
+    ![ChatSearch](/assets/chatSearch.PNG)
+* Chat Room Create
+    ![ChatCreate](/assets/chatCreate.PNG)
 
 ## Problem Statement
 Our topic is **Refugee Integration and Digital Education, Literacy & Refugee Children**
