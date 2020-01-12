@@ -12,6 +12,32 @@ Here is the detail responsibilities:
 * *ChoLiam Wong* is the back-end developer who takes charge of server side for processing the API with Data; He also maintains the project document as well as API document.
 * *ZeKun Yang* is the front-end developer who responses for implementing individual components.
 
+## Demo
+* Login Page (Use Admin as account -- username: admin; password: admin)
+![Login](/assets/login.png)
+* Home Page
+    * Main
+        ![Main](/assets/home.png)
+    * Content
+        ![Content](/assets/content.png)
+    * Search on Home Page
+        ![SearchHome](/assets/homeSearch.png)
+* User Panel
+![UserPanel](/assets/userPanel.png)
+* Settings
+![Setting](/assets/setting.png)
+* Translate Page
+![Translate](/assets/translate.png)
+* Chatroom Page 
+    * Chat Room Lists
+        ![ChatList](/assets/chatList.png)
+    * Chat Room Messages
+        ![ChatMessage](/assets/chatMessage.png)
+    * Chat Room Search
+        ![ChatSearch](/assets/chatSearch.png)
+    * Chat Room Create
+        ![ChatCreate](/assets/chatCreate.png)
+
 ## Problem Statement
 Our topic is **Refugee Integration and Digital Education, Literacy & Refugee Children**
 
