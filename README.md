@@ -14,27 +14,38 @@ Here is the detail responsibilities:
 
 ## Demo
 * Login Page (Use Admin as account -- username: admin; password: admin)
+
 ![Login](/assets/login.PNG)
 * Home Page
+
 ![Main](/assets/home.PNG)
 * Content
+
 ![Content](/assets/content.PNG)
 * Search on Home Page
+
 ![SearchHome](/assets/homeSearch.PNG)
 * User Panel
+
 ![UserPanel](/assets/userPanel.PNG)
 * Settings
+
 ![Setting](/assets/setting.PNG)
 * Translate Page
+
 ![Translate](/assets/translate.PNG)
 * Chatroom Page 
+
 ![ChatList](/assets/chatList.PNG)
 * Chat Room Messages
-    ![ChatMessage](/assets/chatMessage.PNG)
+
+![ChatMessage](/assets/chatMessage.PNG)
 * Chat Room Search
-    ![ChatSearch](/assets/chatSearch.PNG)
+
+![ChatSearch](/assets/chatSearch.PNG)
 * Chat Room Create
-    ![ChatCreate](/assets/chatCreate.PNG)
+
+![ChatCreate](/assets/chatCreate.PNG)
 
 ## Problem Statement
 Our topic is **Refugee Integration and Digital Education, Literacy & Refugee Children**
